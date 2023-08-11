@@ -1,1 +1,2 @@
-console.log("Hello World!");
+const message = "hello world!"
+let numero = 2
