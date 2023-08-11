@@ -1,3 +1,3 @@
-const message = "hello world!!"
+import { hello } from "@/one/two/three/oxi"
 
-console.log(message)
+console.log(hello)
